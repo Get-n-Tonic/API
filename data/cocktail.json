@@ -1,213 +1,213 @@
 [
-    {
-        "drink_id": 1,
-        "name": "Christmas Old Fashioned",
-        "category": "Whiskey",
-        "ingredients": [
-            "2 oz Bourbon",
-            "1/4 oz Cinnamon syrup",
-            "2 dashes Orange bitters",
-            "1 dash Angostura bitters",
-            "1 twist Orange peel"
-        ],
-        "instructions": "In a mixing glass, combine bourbon, cinnamon syrup, and bitters. Add ice and stir. Strain into a rocks glass over fresh ice. Garnish with an orange peel twist.",
-        "image_url": "https://example.com/christmas-old-fashioned.jpg"
-    },
-    {
-        "drink_id": 2,
-        "name": "Eggnog",
-        "category": "Rum",
-        "ingredients": [
-            "4 eggs",
-            "1/2 cup Sugar",
-            "2 cups Milk",
-            "1 cup Heavy cream",
-            "1/2 cup Rum",
-            "1/2 tsp Nutmeg"
-        ],
-        "instructions": "Whisk eggs and sugar until smooth. Gradually stir in milk, heavy cream, and rum. Chill for at least 2 hours. Serve with a sprinkle of nutmeg on top.",
-        "image_url": "https://example.com/eggnog.jpg"
-    },
-    {
-        "drink_id": 3,
-        "name": "Peppermint Martini",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vodka",
-            "1 oz Peppermint schnapps",
-            "1/2 oz Crème de menthe",
-            "1 oz White chocolate liqueur",
-            "For garnish: Crushed candy canes"
-        ],
-        "instructions": "Combine vodka, peppermint schnapps, crème de menthe, and white chocolate liqueur in a shaker with ice. Shake well and strain into a chilled martini glass. Garnish with crushed candy canes.",
-        "image_url": "https://example.com/peppermint-martini.jpg"
-    },
-    {
-        "drink_id": 4,
-        "name": "Mulled Wine",
-        "category": "Wine",
-        "ingredients": [
-            "1 bottle Red wine",
-            "1 Orange (sliced)",
-            "2 Cinnamon sticks",
-            "5-6 Cloves",
-            "2 Star anise",
-            "2 tbsp Honey",
-            "1/4 cup Brandy"
-        ],
-        "instructions": "In a pot, combine wine, orange slices, cinnamon sticks, cloves, star anise, and honey. Heat over medium heat until steaming, but not boiling. Add brandy and continue heating for 10 minutes. Serve warm.",
-        "image_url": "https://example.com/mulled-wine.jpg"
-    },
-    {
-        "drink_id": 5,
-        "name": "Cranberry Moscow Mule",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vodka",
-            "3 oz Cranberry juice",
-            "4 oz Ginger beer",
-            "1/2 oz Lime juice",
-            "For garnish: Fresh cranberries",
-            "For garnish: Mint leaves"
-        ],
-        "instructions": "Fill a copper mug with ice and add vodka, cranberry juice, lime juice, and ginger beer. Stir gently and garnish with fresh cranberries and mint leaves.",
-        "image_url": "https://example.com/cranberry-moscow-mule.jpg"
-    },
-    {
-        "drink_id": 6,
-        "name": "Hot Buttered Rum",
-        "category": "Rum",
-        "ingredients": [
-            "2 oz Dark rum",
-            "1 tbsp Butter",
-            "1 tbsp Brown sugar",
-            "1/4 tsp Ground cinnamon",
-            "1/4 tsp Ground nutmeg",
-            "Hot water"
-        ],
-        "instructions": "In a mug, combine butter, brown sugar, cinnamon, and nutmeg. Add dark rum and top with hot water. Stir until butter and sugar dissolve. Garnish with a cinnamon stick.",
-        "image_url": "https://example.com/hot-buttered-rum.jpg"
-    },
-    {
-        "drink_id": 7,
-        "name": "Gingerbread Martini",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vodka",
-            "1 oz Gingerbread syrup",
-            "1 oz Heavy cream",
-            "1/2 oz Baileys Irish Cream",
-            "For garnish: Crushed gingerbread cookies"
-        ],
-        "instructions": "Shake vodka, gingerbread syrup, heavy cream, and Baileys Irish Cream with ice. Strain into a chilled martini glass and garnish with crushed gingerbread cookies.",
-        "image_url": "https://example.com/gingerbread-martini.jpg"
-    },
-    {
-        "drink_id": 8,
-        "name": "Candy Cane Cocktail",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vodka",
-            "1 oz Peppermint schnapps",
-            "1 oz White chocolate liqueur",
-            "For garnish: Crushed candy canes"
-        ],
-        "instructions": "Shake vodka, peppermint schnapps, and white chocolate liqueur with ice. Strain into a chilled martini glass and garnish with crushed candy canes.",
-        "image_url": "https://example.com/candy-cane-cocktail.jpg"
-    },
-    {
-        "drink_id": 9,
-        "name": "Spiked Hot Chocolate",
-        "category": "Whiskey",
-        "ingredients": [
-            "2 oz Whiskey",
-            "1 cup Hot chocolate",
-            "Whipped cream",
-            "For garnish: Chocolate shavings"
-        ],
-        "instructions": "Pour whiskey into a mug. Top with hot chocolate and stir. Garnish with whipped cream and chocolate shavings.",
-        "image_url": "https://example.com/spiked-hot-chocolate.jpg"
-    },
-    {
-        "drink_id": 10,
-        "name": "Poinsettia Cocktail",
-        "category": "Champagne",
-        "ingredients": [
-            "1 oz Cointreau",
-            "2 oz Cranberry juice",
-            "Champagne (to top off)",
-            "For garnish: Fresh cranberries"
-        ],
-        "instructions": "In a champagne flute, combine Cointreau and cranberry juice. Top with champagne and garnish with fresh cranberries.",
-        "image_url": "https://example.com/poinsettia-cocktail.jpg"
-    },
-    {
-        "drink_id": 11,
-        "name": "Snowball",
-        "category": "Whiskey",
-        "ingredients": [
-            "2 oz Scotch whisky",
-            "1 oz Advocaat",
-            "Lemon soda",
-            "For garnish: Maraschino cherry"
-        ],
-        "instructions": "Pour whisky and advocaat into a glass with ice. Top off with lemon soda and stir. Garnish with a maraschino cherry.",
-        "image_url": "https://example.com/snowball.jpg"
-    },
-    {
-        "drink_id": 12,
-        "name": "Cinnamon Apple Cider Punch",
-        "category": "Rum",
-        "ingredients": [
-            "2 oz Dark rum",
-            "3 oz Apple cider",
-            "1/2 oz Cinnamon syrup",
-            "1/2 oz Lemon juice",
-            "Cinnamon stick (for garnish)"
-        ],
-        "instructions": "In a shaker, combine dark rum, apple cider, cinnamon syrup, and lemon juice with ice. Shake and strain into a glass. Garnish with a cinnamon stick.",
-        "image_url": "https://example.com/cinnamon-apple-cider-punch.jpg"
-    },
-    {
-        "drink_id": 13,
-        "name": "Christmas Cosmo",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vodka",
-            "1 oz Cranberry juice",
-            "1/2 oz Triple sec",
-            "1/2 oz Lime juice",
-            "For garnish: Lime wedge"
-        ],
-        "instructions": "Shake vodka, cranberry juice, triple sec, and lime juice with ice. Strain into a chilled martini glass and garnish with a lime wedge.",
-        "image_url": "https://example.com/christmas-cosmo.jpg"
-    },
-    {
-        "drink_id": 14,
-        "name": "Winter Sangria",
-        "category": "Wine",
-        "ingredients": [
-            "1 bottle Red wine",
-            "1/2 cup Brandy",
-            "1/2 cup Orange juice",
-            "1 Orange (sliced)",
-            "1 Apple (sliced)",
-            "2-3 Cinnamon sticks"
-        ],
-        "instructions": "Combine red wine, brandy, orange juice, orange slices, apple slices, and cinnamon sticks in a large pitcher. Let sit in the fridge for at least 2 hours. Serve chilled.",
-        "image_url": "https://example.com/winter-sangria.jpg"
-    },
-    {
-        "drink_id": 15,
-        "name": "Frosty the Snowman",
-        "category": "Vodka",
-        "ingredients": [
-            "2 oz Vanilla vodka",
-            "1 oz White chocolate liqueur",
-            "1 oz Cream",
-            "For garnish: Shaved coconut"
-        ],
-        "instructions": "Shake vanilla vodka, white chocolate liqueur, and cream with ice. Strain into a glass and garnish with shaved coconut.",
-        "image_url": "https://example.com/frosty-the-snowman.jpg"
-    }
+  {
+    "drink_id": "1",
+    "name": "Christmas Old Fashioned",
+    "category": "Whiskey",
+    "ingredients": [
+      "2 oz Bourbon",
+      "1/4 oz Cinnamon syrup",
+      "2 dashes Orange bitters",
+      "1 dash Angostura bitters",
+      "1 twist Orange peel"
+    ],
+    "instructions": "In a mixing glass, combine bourbon, cinnamon syrup, and bitters. Add ice and stir. Strain into a rocks glass over fresh ice. Garnish with an orange peel twist.",
+    "image": "http://localhost:8080/images/drink_id-1.jpg"
+  },
+  {
+    "drink_id": "2",
+    "name": "Eggnog",
+    "category": "Rum",
+    "ingredients": [
+      "4 eggs",
+      "1/2 cup Sugar",
+      "2 cups Milk",
+      "1 cup Heavy cream",
+      "1/2 cup Rum",
+      "1/2 tsp Nutmeg"
+    ],
+    "instructions": "Whisk eggs and sugar until smooth. Gradually stir in milk, heavy cream, and rum. Chill for at least 2 hours. Serve with a sprinkle of nutmeg on top.",
+    "image": "http://localhost:8080/images/drink_id-2.jpg"
+  },
+  {
+    "drink_id": "3",
+    "name": "Peppermint Martini",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz Peppermint schnapps",
+      "1/2 oz Crème de menthe",
+      "1 oz White chocolate liqueur",
+      "For garnish: Crushed candy canes"
+    ],
+    "instructions": "Combine vodka, peppermint schnapps, crème de menthe, and white chocolate liqueur in a shaker with ice. Shake well and strain into a chilled martini glass. Garnish with crushed candy canes.",
+    "image": "http://localhost:8080/images/drink_id-3.jpg"
+  },
+  {
+    "drink_id": "4",
+    "name": "Mulled Wine",
+    "category": "Wine",
+    "ingredients": [
+      "1 bottle Red wine",
+      "1 Orange (sliced)",
+      "2 Cinnamon sticks",
+      "5-6 Cloves",
+      "2 Star anise",
+      "2 tbsp Honey",
+      "1/4 cup Brandy"
+    ],
+    "instructions": "In a pot, combine wine, orange slices, cinnamon sticks, cloves, star anise, and honey. Heat over medium heat until steaming, but not boiling. Add brandy and continue heating for 10 minutes. Serve warm.",
+    "image": "http://localhost:8080/images/drink_id-4.jpg"
+  },
+  {
+    "drink_id": "5",
+    "name": "Cranberry Moscow Mule",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vodka",
+      "3 oz Cranberry juice",
+      "4 oz Ginger beer",
+      "1/2 oz Lime juice",
+      "For garnish: Fresh cranberries",
+      "For garnish: Mint leaves"
+    ],
+    "instructions": "Fill a copper mug with ice and add vodka, cranberry juice, lime juice, and ginger beer. Stir gently and garnish with fresh cranberries and mint leaves.",
+    "image": "http://localhost:8080/images/drink_id-5.jpg"
+  },
+  {
+    "drink_id": "6",
+    "name": "Hot Buttered Rum",
+    "category": "Rum",
+    "ingredients": [
+      "2 oz Dark rum",
+      "1 tbsp Butter",
+      "1 tbsp Brown sugar",
+      "1/4 tsp Ground cinnamon",
+      "1/4 tsp Ground nutmeg",
+      "Hot water"
+    ],
+    "instructions": "In a mug, combine butter, brown sugar, cinnamon, and nutmeg. Add dark rum and top with hot water. Stir until butter and sugar dissolve. Garnish with a cinnamon stick.",
+    "image": "http://localhost:8080/images/drink_id-6.jpg"
+  },
+  {
+    "drink_id": "7",
+    "name": "Gingerbread Martini",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz Gingerbread syrup",
+      "1 oz Heavy cream",
+      "1/2 oz Baileys Irish Cream",
+      "For garnish: Crushed gingerbread cookies"
+    ],
+    "instructions": "Shake vodka, gingerbread syrup, heavy cream, and Baileys Irish Cream with ice. Strain into a chilled martini glass and garnish with crushed gingerbread cookies.",
+    "image": "http://localhost:8080/images/drink_id-7.jpg"
+  },
+  {
+    "drink_id": "8",
+    "name": "Candy Cane Cocktail",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz Peppermint schnapps",
+      "1 oz White chocolate liqueur",
+      "For garnish: Crushed candy canes"
+    ],
+    "instructions": "Shake vodka, peppermint schnapps, and white chocolate liqueur with ice. Strain into a chilled martini glass and garnish with crushed candy canes.",
+    "image": "http://localhost:8080/images/drink_id-8.jpg"
+  },
+  {
+    "drink_id": "9",
+    "name": "Spiked Hot Chocolate",
+    "category": "Whiskey",
+    "ingredients": [
+      "2 oz Whiskey",
+      "1 cup Hot chocolate",
+      "Whipped cream",
+      "For garnish: Chocolate shavings"
+    ],
+    "instructions": "Pour whiskey into a mug. Top with hot chocolate and stir. Garnish with whipped cream and chocolate shavings.",
+    "image": "http://localhost:8080/images/drink_id-9.jpg"
+  },
+  {
+    "drink_id": "10",
+    "name": "Poinsettia Cocktail",
+    "category": "Champagne",
+    "ingredients": [
+      "1 oz Cointreau",
+      "2 oz Cranberry juice",
+      "Champagne (to top off)",
+      "For garnish: Fresh cranberries"
+    ],
+    "instructions": "In a champagne flute, combine Cointreau and cranberry juice. Top with champagne and garnish with fresh cranberries.",
+    "image": "http://localhost:8080/images/drink_id-10.jpg"
+  },
+  {
+    "drink_id": "11",
+    "name": "Snowball",
+    "category": "Whiskey",
+    "ingredients": [
+      "2 oz Scotch whisky",
+      "1 oz Advocaat",
+      "Lemon soda",
+      "For garnish: Maraschino cherry"
+    ],
+    "instructions": "Pour whisky and advocaat into a glass with ice. Top off with lemon soda and stir. Garnish with a maraschino cherry.",
+    "image": "http://localhost:8080/images/drink_id-11.jpg"
+  },
+  {
+    "drink_id": "12",
+    "name": "Cinnamon Apple Cider Punch",
+    "category": "Rum",
+    "ingredients": [
+      "2 oz Dark rum",
+      "3 oz Apple cider",
+      "1/2 oz Cinnamon syrup",
+      "1/2 oz Lemon juice",
+      "Cinnamon stick (for garnish)"
+    ],
+    "instructions": "In a shaker, combine dark rum, apple cider, cinnamon syrup, and lemon juice with ice. Shake and strain into a glass. Garnish with a cinnamon stick.",
+    "image": "http://localhost:8080/images/drink_id-12.jpg"
+  },
+  {
+    "drink_id": "13",
+    "name": "Christmas Cosmo",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vodka",
+      "1 oz Cranberry juice",
+      "1/2 oz Triple sec",
+      "1/2 oz Lime juice",
+      "For garnish: Lime wedge"
+    ],
+    "instructions": "Shake vodka, cranberry juice, triple sec, and lime juice with ice. Strain into a chilled martini glass and garnish with a lime wedge.",
+    "image": "http://localhost:8080/images/drink_id-13.jpg"
+  },
+  {
+    "drink_id": "14",
+    "name": "Winter Sangria",
+    "category": "Wine",
+    "ingredients": [
+      "1 bottle Red wine",
+      "1/2 cup Brandy",
+      "1/2 cup Orange juice",
+      "1 Orange (sliced)",
+      "1 Apple (sliced)",
+      "2-3 Cinnamon sticks"
+    ],
+    "instructions": "Combine red wine, brandy, orange juice, orange slices, apple slices, and cinnamon sticks in a large pitcher. Let sit in the fridge for at least 2 hours. Serve chilled.",
+    "image": "http://localhost:8080/images/drink_id-14.jpg"
+  },
+  {
+    "drink_id": "15",
+    "name": "Frosty the Snowman",
+    "category": "Vodka",
+    "ingredients": [
+      "2 oz Vanilla vodka",
+      "1 oz White chocolate liqueur",
+      "1 oz Cream",
+      "For garnish: Shaved coconut"
+    ],
+    "instructions": "Shake vanilla vodka, white chocolate liqueur, and cream with ice. Strain into a glass and garnish with shaved coconut.",
+    "image": "http://localhost:8080/images/drink_id-15.jpg"
+  }
 ]
